@@ -1,0 +1,1 @@
+Echo displays a certain string of words and sometimes can add them to a specific file. Cat shows you the text or info form a certain file.
